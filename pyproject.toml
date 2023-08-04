@@ -6,6 +6,8 @@ authors = ["programmer <ildarinho99@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+requests = "^2.31.0"
+psycopg2 = "^2.9.6"
 
 [tool.poetry.dev-dependencies]
 
